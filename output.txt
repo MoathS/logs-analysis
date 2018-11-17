@@ -1,0 +1,12 @@
+What are the most popular three articles of all time?
+
+('"', 'Candidate is jerk, alleges rival', '"', ' -- ', 338647L, 'views \n')
+('"', 'Bears love berries, alleges bear', '"', ' -- ', 253801L, 'views \n')
+('"', 'Bad things gone, say good people', '"', ' -- ', 170098L, 'views \n')
+Who are the most popular article authors of all time?
+('Ursula La Multa', ' -- ', 507594L, 'views \n')
+('Rudolf von Treppenwitz', ' -- ', 423457L, 'views \n')
+('Anonymous Contributor', ' -- ', 170098L, 'views \n')
+('Markoff Chaney', ' -- ', 84557L, 'views \n')
+On which days did more than 1% of requests lead to errors?
+('July      17,2016', ' -- ', 2.26268624680273, '% \n')
